@@ -27,7 +27,7 @@ TODO: I think i will spend my additional time in exploratory analysis and featur
 |--|--|--|--|--|
 |initial|3|8|20|1.81040|
 |add_features|3|8|20|0.67966|
-|hpo|1|8|20|0.60395|
+|hpo|3|8|20|0.60395|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
